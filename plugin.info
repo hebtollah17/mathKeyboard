@@ -1,0 +1,9 @@
+{
+	"title": "$:/plugins/hebtollah17/mathKeyboard",
+	"description": "A faster mathKeyboard",
+	"author": "Hebtollah",
+	"version": "0.0.1",
+	"core-version": ">=5.2.2",
+	"source": "https://github.com/hebtollah17/mathKeyboard",
+	"plugin-type": "plugin"
+}
