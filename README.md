@@ -1,1 +1,1 @@
-# mathKeyboard
+This plugin aims to make writing math equations and formulas faster and easier. It is as if the shortcuts make our physical keyboard a math keyboard. we see letter a to be α. Also one can write store long equations and reusing them latter on.
